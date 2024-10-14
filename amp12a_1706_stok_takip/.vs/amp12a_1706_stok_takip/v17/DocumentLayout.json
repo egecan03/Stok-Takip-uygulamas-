@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egeca\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\1-20241014T165509Z-001\\1\\amp12a_1706_stok_takip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA1C784-75C7-4DA0-AAC0-5F0020D6F72A}|amp12a_1706_stok_takip\\amp12a_1706_stok_takip.csproj|c:\\users\\egeca\\onedrive\\resimler\\masa\u00FCst\u00FC\\1-20241014t165509z-001\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EA1C784-75C7-4DA0-AAC0-5F0020D6F72A}|amp12a_1706_stok_takip\\amp12a_1706_stok_takip.csproj|solutionrelative:amp12a_1706_stok_takip\\pages\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA1C784-75C7-4DA0-AAC0-5F0020D6F72A}|amp12a_1706_stok_takip\\amp12a_1706_stok_takip.csproj|C:\\Users\\egeca\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\1-20241014T165509Z-001\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EA1C784-75C7-4DA0-AAC0-5F0020D6F72A}|amp12a_1706_stok_takip\\amp12a_1706_stok_takip.csproj|solutionrelative:amp12a_1706_stok_takip\\pages\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA1C784-75C7-4DA0-AAC0-5F0020D6F72A}|amp12a_1706_stok_takip\\amp12a_1706_stok_takip.csproj|C:\\Users\\egeca\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\1-20241014T165509Z-001\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmurunislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EA1C784-75C7-4DA0-AAC0-5F0020D6F72A}|amp12a_1706_stok_takip\\amp12a_1706_stok_takip.csproj|solutionrelative:amp12a_1706_stok_takip\\pages\\frmurunislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA1C784-75C7-4DA0-AAC0-5F0020D6F72A}|amp12a_1706_stok_takip\\amp12a_1706_stok_takip.csproj|C:\\Users\\egeca\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\1-20241014T165509Z-001\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmmusteriislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EA1C784-75C7-4DA0-AAC0-5F0020D6F72A}|amp12a_1706_stok_takip\\amp12a_1706_stok_takip.csproj|solutionrelative:amp12a_1706_stok_takip\\pages\\frmmusteriislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA1C784-75C7-4DA0-AAC0-5F0020D6F72A}|amp12a_1706_stok_takip\\amp12a_1706_stok_takip.csproj|C:\\Users\\egeca\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\1-20241014T165509Z-001\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmpersonelislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EA1C784-75C7-4DA0-AAC0-5F0020D6F72A}|amp12a_1706_stok_takip\\amp12a_1706_stok_takip.csproj|solutionrelative:amp12a_1706_stok_takip\\pages\\frmpersonelislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA1C784-75C7-4DA0-AAC0-5F0020D6F72A}|amp12a_1706_stok_takip\\amp12a_1706_stok_takip.csproj|C:\\Users\\egeca\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\1-20241014T165509Z-001\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmsatisdetaylari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EA1C784-75C7-4DA0-AAC0-5F0020D6F72A}|amp12a_1706_stok_takip\\amp12a_1706_stok_takip.csproj|solutionrelative:amp12a_1706_stok_takip\\pages\\frmsatisdetaylari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA1C784-75C7-4DA0-AAC0-5F0020D6F72A}|amp12a_1706_stok_takip\\amp12a_1706_stok_takip.csproj|C:\\Users\\egeca\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\1-20241014T165509Z-001\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EA1C784-75C7-4DA0-AAC0-5F0020D6F72A}|amp12a_1706_stok_takip\\amp12a_1706_stok_takip.csproj|solutionrelative:amp12a_1706_stok_takip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA1C784-75C7-4DA0-AAC0-5F0020D6F72A}|amp12a_1706_stok_takip\\amp12a_1706_stok_takip.csproj|C:\\Users\\egeca\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\1-20241014T165509Z-001\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmtedarikciislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EA1C784-75C7-4DA0-AAC0-5F0020D6F72A}|amp12a_1706_stok_takip\\amp12a_1706_stok_takip.csproj|solutionrelative:amp12a_1706_stok_takip\\pages\\frmtedarikciislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA1C784-75C7-4DA0-AAC0-5F0020D6F72A}|amp12a_1706_stok_takip\\amp12a_1706_stok_takip.csproj|C:\\Users\\egeca\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\1-20241014T165509Z-001\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmkategoriislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EA1C784-75C7-4DA0-AAC0-5F0020D6F72A}|amp12a_1706_stok_takip\\amp12a_1706_stok_takip.csproj|solutionrelative:amp12a_1706_stok_takip\\pages\\frmkategoriislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmSatisDetaylari.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\egeca\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\1-20241014T165509Z-001\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmSatisDetaylari.cs",
+              "RelativeDocumentMoniker": "amp12a_1706_stok_takip\\pages\\frmSatisDetaylari.cs",
+              "ToolTip": "D:\\\u00D6\u011Frenci Dosyalar\u0131\\egecanbayram_1706\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmSatisDetaylari.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-14T16:57:12.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAnaSayfa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\egeca\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\1-20241014T165509Z-001\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmAnaSayfa.cs",
+              "RelativeDocumentMoniker": "amp12a_1706_stok_takip\\pages\\frmAnaSayfa.cs",
+              "ToolTip": "D:\\\u00D6\u011Frenci Dosyalar\u0131\\egecanbayram_1706\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmAnaSayfa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-14T16:57:12.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\egeca\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\1-20241014T165509Z-001\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmGiris.cs",
+              "RelativeDocumentMoniker": "amp12a_1706_stok_takip\\pages\\frmGiris.cs",
+              "ToolTip": "C:\\Users\\egeca\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\1-20241014T165509Z-001\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "amp12a_1706_stok_takip\\pages\\frmGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:57:12.702Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPersonelIslemleri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\egeca\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\1-20241014T165509Z-001\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmPersonelIslemleri.cs",
+              "RelativeDocumentMoniker": "amp12a_1706_stok_takip\\pages\\frmPersonelIslemleri.cs",
+              "ToolTip": "D:\\\u00D6\u011Frenci Dosyalar\u0131\\egecanbayram_1706\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmPersonelIslemleri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-14T16:57:12.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMusteriIslemleri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\egeca\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\1-20241014T165509Z-001\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmMusteriIslemleri.cs",
+              "RelativeDocumentMoniker": "amp12a_1706_stok_takip\\pages\\frmMusteriIslemleri.cs",
+              "ToolTip": "D:\\\u00D6\u011Frenci Dosyalar\u0131\\egecanbayram_1706\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmMusteriIslemleri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-14T16:57:12.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmUrunIslemleri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\egeca\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\1-20241014T165509Z-001\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmUrunIslemleri.cs",
+              "RelativeDocumentMoniker": "amp12a_1706_stok_takip\\pages\\frmUrunIslemleri.cs",
+              "ToolTip": "D:\\\u00D6\u011Frenci Dosyalar\u0131\\egecanbayram_1706\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmUrunIslemleri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-14T16:57:12.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmTedarikciIslemleri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\egeca\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\1-20241014T165509Z-001\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmTedarikciIslemleri.cs",
+              "RelativeDocumentMoniker": "amp12a_1706_stok_takip\\pages\\frmTedarikciIslemleri.cs",
+              "ToolTip": "D:\\\u00D6\u011Frenci Dosyalar\u0131\\egecanbayram_1706\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmTedarikciIslemleri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-14T16:57:12.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmKategoriIslemleri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\egeca\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\1-20241014T165509Z-001\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmKategoriIslemleri.cs",
+              "RelativeDocumentMoniker": "amp12a_1706_stok_takip\\pages\\frmKategoriIslemleri.cs",
+              "ToolTip": "D:\\\u00D6\u011Frenci Dosyalar\u0131\\egecanbayram_1706\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\pages\\frmKategoriIslemleri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-14T16:57:12.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\egeca\\OneDrive\\Resimler\\Masa\u00FCst\u00FC\\1-20241014T165509Z-001\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\Form1.cs",
+              "RelativeDocumentMoniker": "amp12a_1706_stok_takip\\Form1.cs",
+              "ToolTip": "D:\\\u00D6\u011Frenci Dosyalar\u0131\\egecanbayram_1706\\1\\amp12a_1706_stok_takip\\amp12a_1706_stok_takip\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-14T16:57:12.708Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
